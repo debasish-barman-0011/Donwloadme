@@ -10,14 +10,23 @@
 
 ### Step 2: Install Required Software (One-Time Setup)
 
-#### A. Install Python — THE MOST IMPORTANT STEP
+#### A. Double Click on yt-dlp application and open in terminal.
 
-- Download Python: https://www.python.org/downloads/
-- Run the installer
-- CRITICAL: Check ✅ **Add Python to PATH**
-- Click **Install Now**
+- Download latest if it is older than 90 Days : run yt-dlp --update in a new terminal
+- Close yt-dlp exe
 
-#### B. Install yt-dlp (YouTube Downloader)
+#### B. Double Click on Downloader
+
+- Paste YouTube Video URL
+- Choose any Format You want. 1 for Best 4 for Audio Only
+- Wait till this Automatically Downloads.
+- Now Enjoy Your Content.
+
+---
+
+---
+
+#### In Case of any Error :
 
 - Press **Windows Key + R**
 - Type `cmd` and press Enter
